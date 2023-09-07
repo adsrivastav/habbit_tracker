@@ -53,7 +53,7 @@ Mongoose <br/>
 #### 1. Clone the repository:- <br/>
 
 ```bash
-git clone https://github.com/DataWorker2001/Habit-Tracker-Backend
+git clone [https://github.com/adsrivastav/habbit_tracker]
 ```
 
 #### 2. Install the dependencies:<br/>
@@ -87,5 +87,5 @@ This project is licensed under the GNU General Public License.<br/>
 The libraries and resources that you used in the development of this project are Visual Studio Code and MongoDB Cloud database finally with render for deployment.<br/>
 
 ## Contact<br/>
-1. Email - arpanchoudhury.iitjee@gmail.com<br/>
-2. Project Link: https://github.com/DataWorker2001/Habit-Tracker-Backend.<br/>
+1. Email - adsrivastav179@gmail.com<br/>
+2. Project Link: https://github.com/adsrivastav/habbit_tracker.<br/>
